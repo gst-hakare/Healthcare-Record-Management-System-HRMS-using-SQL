@@ -15,7 +15,7 @@ This project is a relational database system designed to manage core hospital op
 
 ## 🏛️ Entity Relationship Diagram (ERD)
 
-![Healthcare Management ERD](Healthcare Management ERD.png)
+![Healthcare Management ERD](Healthcare%20Management%20ERD.png)
 
 ### Key Entities & Structure
 * **Patient & Medical History:** Stores patient demographics, active insurance details, past treatments, and known allergies.
